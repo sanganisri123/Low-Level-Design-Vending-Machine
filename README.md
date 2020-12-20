@@ -7,6 +7,6 @@
 **Requirments:**\
 1.user should able to select an item.\
 2.System should verify if the item selected avaliable or not and behave accordingly.\
-3.User should able to intsert coins.
+3.User should able to intsert coins.\
 4.System should verify if coin is valid or not and change is available or not and should behave accordingly.\
 5.System should dispense item and coin if everything goes fine.
